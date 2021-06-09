@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/birthday-card-piner/static/css/main.e68ffcd4.chunk.css",
+    "main.js": "/birthday-card-piner/static/js/main.0df70bf0.chunk.js",
+    "main.js.map": "/birthday-card-piner/static/js/main.0df70bf0.chunk.js.map",
+    "runtime-main.js": "/birthday-card-piner/static/js/runtime-main.775ba095.js",
+    "runtime-main.js.map": "/birthday-card-piner/static/js/runtime-main.775ba095.js.map",
+    "static/js/2.45e85b5e.chunk.js": "/birthday-card-piner/static/js/2.45e85b5e.chunk.js",
+    "static/js/2.45e85b5e.chunk.js.map": "/birthday-card-piner/static/js/2.45e85b5e.chunk.js.map",
+    "index.html": "/birthday-card-piner/index.html",
+    "static/css/main.e68ffcd4.chunk.css.map": "/birthday-card-piner/static/css/main.e68ffcd4.chunk.css.map",
+    "static/js/2.45e85b5e.chunk.js.LICENSE.txt": "/birthday-card-piner/static/js/2.45e85b5e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/birthday-card-piner/static/media/gradient_1.6dbd25f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.775ba095.js",
+    "static/js/2.45e85b5e.chunk.js",
+    "static/css/main.e68ffcd4.chunk.css",
+    "static/js/main.0df70bf0.chunk.js"
+  ]
+}
