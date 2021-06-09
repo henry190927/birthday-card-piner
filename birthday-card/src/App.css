@@ -144,4 +144,114 @@
     left: 0px;
     opacity: 0.3;
   }
+
+  .card {
+    position: relative;
+    height: 70%;
+    width: 80%;
+    margin-bottom: 60px;
+    flex-direction: column;
+    box-shadow: 0px 10px 20px rgb(146, 144, 144);
+    background-color: white; 
+  }
+
+  .navbar {
+    position: relative;
+    height: 12%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+  }
+
+  .cover {
+    position: relative;
+    height: 0%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url('./img/gradient_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: height 0.25s ease-in-out;
+  }
+
+  .cover-textBox {
+    position: relative;
+    height: 95%;
+    width: 95%;
+  }
+  
+  .cover-textBox span {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 3.2rem;
+    color: white;
+    padding: 20px;
+  }
+
+  .content {
+    position: relative;
+    height: 88%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-image: url('./img/gradient_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: height 0.25s ease-in-out;
+    flex-wrap: wrap;
+    overflow: scroll;
+  }
+  
+  .content-image {
+    position: relative;
+    background-image: url(./img/IMG_9461.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 90%;
+    width: 80%;
+    margin: 20px;
+  }
+
+  .content-textBox {
+    position: relative;
+    height: 100%;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: transparent;
+    overflow: unset;
+  }
+
+  .content::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .content-textBox-textcontent {
+    font-family: 'Baloo Tammudu 2', cursive;
+    word-wrap: break-word;
+    font-size: 1rem;
+    color: rgb(100, 100, 100);
+    width: 100%;
+    padding: 0 20px;
+    overflow: unset;
+  }
+  
+  .cover-close {
+    height: 88%;
+  }
+  
+  .content-open {
+    height: 0%;
+  }
+  
+  .content-hide {
+    display: none;
+  }
 }

@@ -75,8 +75,8 @@ function App() {
         <div className="cover cover-close">
           <div className="cover-textBox">
             <span>Happy</span><br/>
-            <span style={{marginLeft: '40px'}}>Birthday</span><br/>
-            <span style={{marginLeft: '80px'}}>Piner</span><br/>
+            <span style={{marginLeft: '7.5%'}}>Birthday</span><br/>
+            <span style={{marginLeft: '15%'}}>Piner</span><br/>
           </div>
         </div>
 
